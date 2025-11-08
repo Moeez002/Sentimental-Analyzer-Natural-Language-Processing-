@@ -24,7 +24,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
+   git clone https://github.com/Moeez002/sentiment-analysis.git
    cd sentiment-analysis
    ```
 2. Open the Jupyter Notebook:
@@ -49,3 +49,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+
