@@ -37,7 +37,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 📊 Model & Results
 
 * Algorithms used: Logistic Regression, Naive Bayes, SVM 
-* Best Accuracy: **79%** (fill in with your result).
+* Best Accuracy: **79%**.
 * Evaluation Metrics: Accuracy, Precision, Recall, F1-Score.
 
 ## 🔮 Future Improvements
